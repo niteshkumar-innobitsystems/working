@@ -1,0 +1,55 @@
+body{
+    background:#fff;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(213, 247, 235);
+}
+.navbar{
+    width: 100%;
+    height: 7vh;
+    background-color:#D91656;
+    display: flex;
+    
+}
+
+.nabmenu_logo{
+    color: black;
+    display: flex;
+    flex: crow 1;
+    width: 40%;
+    height: 100%;
+    gap: 20px;
+    justify-content: right;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.nabmenu{
+    color: black;
+    display: flex;
+    flex: crow 1;
+    width: 60%;
+    height: 100%;
+    gap: 20px;
+    justify-content: right;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+    
+
+.username{
+    font-family: 'Courier New', Courier, monospace;
+}
+.menutitle{
+    font-weight: 900;
+    color:bisque;
+
+}
+
+
+.mainBody{
+    
+}
